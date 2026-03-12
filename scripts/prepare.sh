@@ -13,7 +13,7 @@ gdown https://drive.google.com/uc?id=1VD1vGhl_NPzy8mza4Fx6vvqFpnlzZ86L
 mv droid.pth ./_DATA/
 
 # Download for HMP
-gdown https://drive.google.com/uc?id=1LfMugcIM5WfenPkInzJGm5IEwCUK_AMy
+gdown https://drive.google.com/uc?id=1_rp_SMxZA6Gjm6Z49M6hXam9kjMD6-GQ
 unzip hmp_model.zip
 mv hmp_model ./_DATA/
 rm -rf hmp_model.zip
